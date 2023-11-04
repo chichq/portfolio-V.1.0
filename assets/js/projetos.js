@@ -51,7 +51,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/proje2.gif" alt="GIF do projeto credit card." />
             <div class="buttons">
-              <a href="https://github.com/chichq/passwordsecurity" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/chichq/Credit-Card-design" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -65,7 +65,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://password-security-app.netlify.app/" target="_blank" title="Ver Projeto">
+              <a href="https://chichq.github.io/Credit-Card-design/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
